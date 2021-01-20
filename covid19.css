@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.final{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+}
+
+h1{
+    text-align: center;
+}
+
+h4{
+    margin-left:40px;
+}
+
+POSTER{
+    height: 200px;
+    width: 150px;
+    align: top:20px;
+}
